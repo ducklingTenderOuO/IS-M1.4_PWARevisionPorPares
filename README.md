@@ -1,4 +1,4 @@
-🔧 Instrucciones de ejecución
+#🔧 Instrucciones de ejecución
 
 Opción 1: Abrir directamente
 Descarga el archivo portal-autor.html en tu computadora
